@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/iconos">
+        <file>Recursos/agregar-archivo.png</file>
+        <file>Recursos/cerrar-sesion.png</file>
+        <file>Recursos/disquete.png</file>
+        <file>Recursos/presupuesto.png</file>
+        <file>Recursos/abrir-caja.png</file>
+        <file>Recursos/pregunta.png</file>
+        <file>Recursos/salario.png</file>
+    </qresource>
+</RCC>
